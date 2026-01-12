@@ -1,0 +1,48 @@
+{
+  "applications": [
+    {
+      "id": "app_1",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_1",
+      "status": "approved",
+      "appliedDate": "2024-01-10",
+      "approvedDate": "2024-01-12",
+      "approvedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Student meets all requirements",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "app_2",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_2",
+      "status": "pending",
+      "appliedDate": "2024-01-25",
+      "approvedDate": null,
+      "approvedBy": null,
+      "notes": "Application under review",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "app_3",
+      "studentId": "bd7bae8d-d9fa-426d-828b-7323ab893f0b",
+      "activityId": "act_3",
+      "status": "approved",
+      "appliedDate": "2024-01-05",
+      "approvedDate": "2024-01-08",
+      "approvedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Strong academic background",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "app_4",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_4",
+      "status": "completed",
+      "appliedDate": "2024-01-20",
+      "approvedDate": "2024-01-22",
+      "approvedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Successfully completed program",
+      "createdAt": 1705276800000
+    }
+  ]
+}

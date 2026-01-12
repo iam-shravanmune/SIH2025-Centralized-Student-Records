@@ -1,0 +1,111 @@
+{
+  "certificates": [
+    {
+      "id": "cert_1",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_1",
+      "title": "JavaScript Fundamentals Workshop",
+      "description": "Successfully completed JavaScript Fundamentals Workshop",
+      "issuedBy": "Dr. Sarah Johnson",
+      "issuedDate": "2024-01-20",
+      "status": "issued",
+      "filePath": "/certificates/js_fundamentals_parth_patil.pdf",
+      "skills": [
+        "JavaScript",
+        "ES6",
+        "Programming",
+        "Web Development"
+      ],
+      "category": "technical",
+      "grade": "A+",
+      "validUntil": "2026-01-20",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "cert_2",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_4",
+      "title": "Leadership Skills Training",
+      "description": "Successfully completed Leadership Skills Training Program",
+      "issuedBy": "Ms. Jennifer Lee",
+      "issuedDate": "2024-01-27",
+      "status": "issued",
+      "filePath": "/certificates/leadership_parth_patil.pdf",
+      "skills": [
+        "Leadership",
+        "Team Management",
+        "Communication",
+        "Strategic Thinking"
+      ],
+      "category": "professional",
+      "grade": "A",
+      "validUntil": "2026-01-27",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "cert_3",
+      "studentId": "bd7bae8d-d9fa-426d-828b-7323ab893f0b",
+      "activityId": "act_3",
+      "title": "Python for Data Science",
+      "description": "Successfully completed Python for Data Science Course",
+      "issuedBy": "Dr. Emily Rodriguez",
+      "issuedDate": "2024-03-10",
+      "status": "issued",
+      "filePath": "/certificates/python_ds_yashika_gandhi.pdf",
+      "skills": [
+        "Python",
+        "Data Science",
+        "Pandas",
+        "NumPy",
+        "Matplotlib"
+      ],
+      "category": "academic",
+      "grade": "A+",
+      "validUntil": "2026-03-10",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "cert_4",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_2",
+      "title": "React Development Bootcamp",
+      "description": "Successfully completed React Development Bootcamp",
+      "issuedBy": "Prof. Michael Chen",
+      "issuedDate": "2024-02-15",
+      "status": "pending",
+      "filePath": null,
+      "skills": [
+        "React",
+        "JavaScript",
+        "Frontend Development",
+        "Component Architecture"
+      ],
+      "category": "technical",
+      "grade": null,
+      "validUntil": null,
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "91c6100c-6e9a-4ee4-8a6d-3ea216a6193d",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_5",
+      "title": "UI/UX Design Principles",
+      "description": "Successfully completed UI/UX Design Principles",
+      "issuedBy": "Chetan Fale",
+      "issuedDate": "2025-09-25",
+      "status": "issued",
+      "filePath": "/certificates/ui/ux_design_principles_60e40305-2761-498e-bea1-3f73f5121879.pdf",
+      "skills": [
+        "UI/UX Design",
+        "Figma",
+        "User Research",
+        "Prototyping",
+        "Design Thinking"
+      ],
+      "category": "creative",
+      "grade": "A+",
+      "validUntil": "2027-09-25",
+      "createdAt": 1758778664033
+    }
+  ]
+}

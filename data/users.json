@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "60e40305-2761-498e-bea1-3f73f5121879",
+      "identifier": "abc@gmail.com",
+      "name": "Parth Patil",
+      "role": "student",
+      "createdAt": 1758294109321,
+      "passwordHash": "h1450575459"
+    },
+    {
+      "id": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "identifier": "def@gmail.com",
+      "name": "Chetan Fale",
+      "role": "teacher",
+      "createdAt": 1758300849105,
+      "passwordHash": "h1539325827"
+    },
+    {
+      "id": "7f0b78ec-3395-49b5-8e17-e675ae50e76a",
+      "identifier": "fgh@gmail.com",
+      "name": "Sadiya Hussain",
+      "role": "admin",
+      "createdAt": 1758300927984,
+      "passwordHash": "h1420992003"
+    },
+    {
+      "id": "bd7bae8d-d9fa-426d-828b-7323ab893f0b",
+      "identifier": "123@gmail.com",
+      "name": "Yashika Gandhi",
+      "role": "student",
+      "createdAt": 1758343744686,
+      "passwordHash": "h748554228"
+    },
+    {
+      "id": "26822169-1c0b-4d18-be07-0d5cc3600275",
+      "identifier": "12345",
+      "name": "Sadiya Hussain",
+      "role": "student",
+      "createdAt": 1758779580517,
+      "passwordHash": "h88004109"
+    },
+    {
+      "id": "d5f96dc5-a331-427a-82d8-9d459a21d0bf",
+      "identifier": "sh@gmail.com",
+      "name": "shravan Mune",
+      "role": "admin",
+      "createdAt": 1759213308012,
+      "passwordHash": "h1821350644"
+    }
+  ]
+}

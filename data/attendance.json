@@ -1,0 +1,54 @@
+{
+  "attendance": [
+    {
+      "id": "att_1",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_1",
+      "date": "2024-01-15",
+      "status": "present",
+      "markedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Active participation",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "att_2",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_1",
+      "date": "2024-01-16",
+      "status": "present",
+      "markedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Excellent work",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "att_3",
+      "studentId": "60e40305-2761-498e-bea1-3f73f5121879",
+      "activityId": "act_1",
+      "date": "2024-01-17",
+      "status": "absent",
+      "markedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Medical leave",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "att_4",
+      "studentId": "bd7bae8d-d9fa-426d-828b-7323ab893f0b",
+      "activityId": "act_3",
+      "date": "2024-01-10",
+      "status": "present",
+      "markedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Good participation",
+      "createdAt": 1705276800000
+    },
+    {
+      "id": "att_5",
+      "studentId": "bd7bae8d-d9fa-426d-828b-7323ab893f0b",
+      "activityId": "act_3",
+      "date": "2024-01-12",
+      "status": "present",
+      "markedBy": "ca3a97fd-4ec1-41c6-95d0-6186ec502a8e",
+      "notes": "Active in discussions",
+      "createdAt": 1705276800000
+    }
+  ]
+}
