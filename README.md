@@ -19,7 +19,7 @@ A comprehensive full-stack application for managing student portfolios, certific
 - No external dependencies required
 
 ### 🔧 **Technical Stack**
-- **Frontend**: React 18 + TypeScript + TailwindCSS + Vite
+- **Frontend**: React + TypeScript + TailwindCSS + HTML
 - **Backend**: Express.js + Node.js
 - **UI Components**: Radix UI + Lucide React icons
 - **State Management**: React Context + Local Storage
